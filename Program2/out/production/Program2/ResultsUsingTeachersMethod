@@ -1,0 +1,15 @@
+Array size = 10	Median = 55921.0	Search time = 2.94599E-4 seconds
+Array size = 20	Median = 40018.0	Search time = 1.16E-5 seconds
+Array size = 30	Median = 43259.0	Search time = 1.1501E-5 seconds
+Array size = 40	Median = 47479.0	Search time = 1.8099E-5 seconds
+Array size = 50	Median = 51622.0	Search time = 7.4899E-5 seconds
+Array size = 1000000	Median = 50063.0	Search time = 0.1529153 seconds
+Array size = 2000000	Median = 50001.0	Search time = 0.198474699 seconds
+Array size = 3000000	Median = 50017.0	Search time = 0.2311804 seconds
+Array size = 4000000	Median = 50004.0	Search time = 0.3607305 seconds
+Array size = 5000000	Median = 50015.0	Search time = 0.361309 seconds
+Array size = 1000001	Median = 50089.0	Search time = 0.072536701 seconds
+Array size = 2000001	Median = 50037.0	Search time = 0.176434299 seconds
+Array size = 3000001	Median = 49972.0	Search time = 0.2234298 seconds
+Array size = 4000001	Median = 49991.0	Search time = 0.3077266 seconds
+Array size = 5000001	Median = 50027.0	Search time = 0.377021699 seconds
